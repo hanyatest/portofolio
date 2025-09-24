@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hanyatest.github.io/portofolio",
+  "homepage": "https://hanyatest.github.io/portofolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
